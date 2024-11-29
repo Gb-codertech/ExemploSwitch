@@ -1,0 +1,14 @@
+C:\Users\PC-1\Desktop\10PIGabrielVieira\C#\ExemploSwitch\ExemploSwitch\bin\Debug\net8.0\ExemploSwitch.exe
+C:\Users\PC-1\Desktop\10PIGabrielVieira\C#\ExemploSwitch\ExemploSwitch\bin\Debug\net8.0\ExemploSwitch.deps.json
+C:\Users\PC-1\Desktop\10PIGabrielVieira\C#\ExemploSwitch\ExemploSwitch\bin\Debug\net8.0\ExemploSwitch.runtimeconfig.json
+C:\Users\PC-1\Desktop\10PIGabrielVieira\C#\ExemploSwitch\ExemploSwitch\bin\Debug\net8.0\ExemploSwitch.dll
+C:\Users\PC-1\Desktop\10PIGabrielVieira\C#\ExemploSwitch\ExemploSwitch\bin\Debug\net8.0\ExemploSwitch.pdb
+C:\Users\PC-1\Desktop\10PIGabrielVieira\C#\ExemploSwitch\ExemploSwitch\obj\Debug\net8.0\ExemploSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-1\Desktop\10PIGabrielVieira\C#\ExemploSwitch\ExemploSwitch\obj\Debug\net8.0\ExemploSwitch.AssemblyInfoInputs.cache
+C:\Users\PC-1\Desktop\10PIGabrielVieira\C#\ExemploSwitch\ExemploSwitch\obj\Debug\net8.0\ExemploSwitch.AssemblyInfo.cs
+C:\Users\PC-1\Desktop\10PIGabrielVieira\C#\ExemploSwitch\ExemploSwitch\obj\Debug\net8.0\ExemploSwitch.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\Desktop\10PIGabrielVieira\C#\ExemploSwitch\ExemploSwitch\obj\Debug\net8.0\ExemploSwitch.dll
+C:\Users\PC-1\Desktop\10PIGabrielVieira\C#\ExemploSwitch\ExemploSwitch\obj\Debug\net8.0\refint\ExemploSwitch.dll
+C:\Users\PC-1\Desktop\10PIGabrielVieira\C#\ExemploSwitch\ExemploSwitch\obj\Debug\net8.0\ExemploSwitch.pdb
+C:\Users\PC-1\Desktop\10PIGabrielVieira\C#\ExemploSwitch\ExemploSwitch\obj\Debug\net8.0\ExemploSwitch.genruntimeconfig.cache
+C:\Users\PC-1\Desktop\10PIGabrielVieira\C#\ExemploSwitch\ExemploSwitch\obj\Debug\net8.0\ref\ExemploSwitch.dll
